@@ -4,10 +4,10 @@
 	<test name="Test1">
 		<parameter name="path" value="/"/>
 		<classes>
-		    <class name="com.baranov.selenium.Login03"/>
-			<class name="com.baranov.selenium.AddFilm03"/>
-			<class name="com.baranov.selenium.RemoveFilm03"/>
-			<class name="com.baranov.selenium.Logout03"/>
+			<class name="ru.st.selenium.Login"/>
+			<class name="ru.st.selenium.AddFilm"/>
+			<class name="ru.st.selenium.RemoveFilm2"/>
+			<class name="ru.st.selenium.Logout"/>
 		</classes>
 	</test>  
 </suite>
